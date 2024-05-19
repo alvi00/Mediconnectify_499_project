@@ -8,9 +8,9 @@ button2.addEventListener("click",function(){
 });
 
 
-let button3=document.querySelector(".button-3");
-button3.addEventListener("click",function(){
-    window.location.href = "#";
+let button3 = document.querySelector(".button-3");
+button3.addEventListener("click", function() {
+    window.open("http://127.0.0.1:7384", "_blank");
 });
 
 
@@ -23,4 +23,6 @@ button3.addEventListener("click",function(){
 // let button3=document.querySelector(".button-3");
 // button3.addEventListener("click",function(){
 //     window.open("html3.html", "_blank");
+// });
+// });
 // });
