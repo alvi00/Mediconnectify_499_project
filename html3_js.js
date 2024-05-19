@@ -1,17 +1,17 @@
 // Load donors from local storage or use the initial array if nothing is in local storage
 const donors = JSON.parse(localStorage.getItem('donors')) || [
-    { name: "John Doe", location: "Mirpur, Dhaka", bloodGroup: "A+", contact: "+880 014-010-8333", age: 30, gender: "Male" },
-    { name: "Jane Smith", location: "Banani, Dhaka", bloodGroup: "B-", contact: "+880 014-010-8333", age: 25, gender: "Female" },
-    { name: "David Johnson", location: "Gulshan, Dhaka", bloodGroup: "AB+", contact: "+880 014-010-8333", age: 40, gender: "Male" },
-    { name: "Emily Brown", location: "Uttara, Dhaka", bloodGroup: "O+", contact: "+880 014-010-8333", age: 35, gender: "Female" },
-    { name: "Michael Lee", location: "Dhanmondi, Dhaka", bloodGroup: "A-", contact: "+880 014-010-8333", age: 28, gender: "Male" },
-    { name: "Asif Rahman", location: "Mohammadpur, Dhaka", bloodGroup: "O-", contact: "+880 014-010-8333", age: 32, gender: "Male" },
-    { name: "Sara Begum", location: "Tejgaon, Dhaka", bloodGroup: "A+", contact: "+880 014-010-8333", age: 29, gender: "Female" },
-    { name: "Rahim Chowdhury", location: "Motijheel, Dhaka", bloodGroup: "B+", contact: "+880 014-010-8333", age: 45, gender: "Male" },
-    { name: "Nadia Ali", location: "Bashundhara, Dhaka", bloodGroup: "AB-", contact: "+880 014-010-8333", age: 26, gender: "Female" },
-    { name: "Tanvir Hasan", location: "Shahbag, Dhaka", bloodGroup: "O+", contact: "+880 014-010-8333", age: 31, gender: "Male" },
-    { name: "Nadia Ali", location: "Bashundhara, Dhaka", bloodGroup: "AB-", contact: "+880 014-010-8333", age: 26, gender: "Female" },
-    { name: "Tanvir Hasan", location: "Shahbag, Dhaka", bloodGroup: "O+", contact: "+880 014-010-8333", age: 31, gender: "Male" }
+    { name: "আসিফ রহমান", location: "Mirpur, Dhaka", bloodGroup: "A+", contact: "+880 014-010-8333", age: 30, gender: "Male" },
+    { name: "সারা বেগম", location: "Banani, Dhaka", bloodGroup: "B-", contact: "+880 014-010-8333", age: 25, gender: "Female" },
+    { name: "রহিম চৌধুরী", location: "Gulshan, Dhaka", bloodGroup: "AB+", contact: "+880 014-010-8333", age: 40, gender: "Male" },
+    { name: "নাদিয়া আলী", location: "Uttara, Dhaka", bloodGroup: "O+", contact: "+880 014-010-8333", age: 35, gender: "Female" },
+    { name: "তানভীর হাসান", location: "Dhanmondi, Dhaka", bloodGroup: "A-", contact: "+880 014-010-8333", age: 28, gender: "Male" },
+    { name: "মাহফুজ আহমেদ", location: "Mohammadpur, Dhaka", bloodGroup: "O-", contact: "+880 014-010-8333", age: 32, gender: "Male" },
+    { name: "ফারহানা খাতুন", location: "Tejgaon, Dhaka", bloodGroup: "A+", contact: "+880 014-010-8333", age: 29, gender: "Female" },
+    { name: "জামাল উদ্দিন", location: "Motijheel, Dhaka", bloodGroup: "B+", contact: "+880 014-010-8333", age: 45, gender: "Male" },
+    { name: "সাবরিনা সুলতানা", location: "Bashundhara, Dhaka", bloodGroup: "AB-", contact: "+880 014-010-8333", age: 26, gender: "Female" },
+    { name: "ইমরান হোসেন", location: "Shahbag, Dhaka", bloodGroup: "O+", contact: "+880 014-010-8333", age: 31, gender: "Male" },
+    { name: "শামীমা আক্তার", location: "Bashundhara, Dhaka", bloodGroup: "AB-", contact: "+880 014-010-8333", age: 26, gender: "Female" },
+    { name: "আবুল হাসান", location: "Shahbag, Dhaka", bloodGroup: "O+", contact: "+880 014-010-8333", age: 31, gender: "Male" }
   
     
   ];
