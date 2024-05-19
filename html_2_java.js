@@ -120,7 +120,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "ডক্টর প্রিয়াঙ্কা চৌধুরী",
+      name: "ডক্টর নাদিয়া ইসলাম",
       location: "Mohammadpur, City Hospital, Dhaka",
       specialty: "Hematologist",
       contact: "0140108338",
@@ -128,7 +128,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "ডক্টর প্রিয়াঙ্কা চৌধুরী",
+      name: "ডক্টর অপু রায়",
       location: "Jatrabari, Medinova Medical Services, Dhaka",
       specialty: "Allergist",
       contact: "0140108338",
@@ -136,7 +136,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "ডক্টর প্রিয়াঙ্কা চৌধুরী",
+      name: "ডক্টর অর্ণব চৌধুরী",
       location: "Kallyanpur, Dhaka Medical College Hospital, Dhaka",
       specialty: "Psychiatrist",
       contact: "0140108338",
@@ -152,7 +152,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "ডক্টর প্রিয়াঙ্কা চৌধুরী",
+      name: "ডক্টর তানভীর আহমেদ",
       location: "Lalmatia, Green Life Medical College Hospital, Dhaka",
       specialty: "Immunologist",
       contact: "0140108338",
@@ -168,7 +168,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "ডক্টর লীনা ফেরদৌস",
+      name: "ডক্টর অর্ণব চৌধুরী",
       location: "Shahbagh, BIRDEM General Hospital, Dhaka",
       specialty: "Pathologist",
       contact: "0140108338",
@@ -184,7 +184,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "Dr. Alice Murray",
+      name: "ডক্টর মৌসুমি খান",
       location: "Gulshan, Dhaka Medical Center, Dhaka",
       specialty: "Endocrinologist",
       contact: "0140108338",
@@ -192,7 +192,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "ডক্টর জয় ব্যানার্জি",
+      name: "ডক্টর সুমন বিশ্বাস",
       location: "Mirpur, Al-Helal Specialized Hospital, Dhaka",
       specialty: "Cardiologist",
       contact: "0140108338",
@@ -208,7 +208,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "ডক্টর তানিয়া মজুমদার",
+      name: "ডক্টর ফারহানা রহমান",
       location: "Uttara, Crescent Gastroliver & General Hospital, Dhaka",
       specialty: "Hepatologist",
       contact: "0140108338",
@@ -224,7 +224,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "Dr. John Becker",
+      name: "ডক্টর তানভীর আহমেদ",
       location: "Shyamoli, Ortho Care Hospital, Dhaka",
       specialty: "Orthopedic Surgeon",
       contact: "0140108338",
@@ -232,7 +232,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "Dr. Nora Ephron",
+      name: "ডক্টর রাকিব হাসান",
       location: "Mohakhali, Ahsania Mission Cancer and General Hospital, Dhaka",
       specialty: "Oncologist",
       contact: "0140108338",
@@ -240,7 +240,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "Dr. Samuel Lee",
+      name: "ডক্টর নাদিয়া ইসলাম",
       location: "Khilgaon, Popular Diagnostic Center, Dhaka",
       specialty: "Neurologist",
       contact: "0140108338",
@@ -248,7 +248,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "Dr. Monica Bell",
+      name: "ডক্টর অপু রায়",
       location: "Badda, Prime Hospital, Dhaka",
       specialty: "Pediatrician",
       contact: "0140108338",
@@ -256,7 +256,7 @@ const doctors = [
       price: "1200tk"
     },
     { 
-      name: "Dr. Monica Bell",
+      name: "ডক্টর তানিয়া মজুমদার",
       location: "Badda, Prime Hospital, Dhaka",
       specialty: "Pediatrician",
       contact: "0140108338",
